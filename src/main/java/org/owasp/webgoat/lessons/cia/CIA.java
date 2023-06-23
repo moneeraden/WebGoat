@@ -5,7 +5,7 @@ import org.owasp.webgoat.container.lessons.Lesson;
 import org.springframework.stereotype.Component;
 
 /**
- * @author BenediktStuhrmann
+ * @author BenediktStuhrmannn
  * @since 11/2/18.
  */
 @Component
